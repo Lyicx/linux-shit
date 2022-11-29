@@ -1,3 +1,3 @@
 function stopx
-pkill Xorg
+sudo pkill Xorg
 end
