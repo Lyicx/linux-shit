@@ -1,3 +1,3 @@
 function ll --wraps=ls
-ls -la
+ls -la $argv
 end
