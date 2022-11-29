@@ -23,7 +23,7 @@ SETUVAR fish_color_redirection:cyan\x1e\x2d\x2dbold
 SETUVAR fish_color_search_match:\x2d\x2dbackground\x3d111
 SETUVAR fish_color_selection:white\x1e\x2d\x2dbold\x1e\x2d\x2dbackground\x3dbrblack
 SETUVAR fish_color_status:red
-SETUVAR fish_color_user:brpurple
+SETUVAR fish_color_user:571ea8
 SETUVAR fish_color_valid_path:\x2d\x2dunderline
 SETUVAR fish_greeting:\x0a\x22I\x2c\x20Lyicx\x2e\x20do\x20swear\x20that\x20i\x20will\x20be\x20faithful\x20and\x20bear\x20true\x20allegience\x20to\x20Ren\x20\x0aaccording\x20to\x20law\x2e\x20So\x20help\x20me\x20god\x2e\x22\x20\x0a\x2d\x2031/5/22\x20\x3c3\x0a\x0a
 SETUVAR fish_key_bindings:fish_default_key_bindings
